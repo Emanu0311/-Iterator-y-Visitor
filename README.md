@@ -75,6 +75,4 @@ MENU DE OPCIONES
 La opcion 4 despliega un submenu para elegir el tipo de registro (Estudiante o Docente) y solicita los datos por consola.
 
 ## Tecnologias
-
-- Java 17
-- Maven (estructura de proyecto)
+- Maven
