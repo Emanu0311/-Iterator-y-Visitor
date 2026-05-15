@@ -2,12 +2,9 @@
 
 ## Autor
 
-**Nombre:** [Tu nombre aqui]
+**Nombre:** Josep Emanuel Leon Joya
 
-**Codigo:** [Tu codigo aqui]
-
-**Materia:** [Nombre de la materia]
-
+**Codigo:** 20231020160
 ---
 
 ## Descripcion
